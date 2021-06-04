@@ -12,7 +12,7 @@
   	<owner.version>1.0.8</owner.version>
   	<fastjson.version>1.1.15</fastjson.version>
   	<protobuf.version>3.0.2</protobuf.version>
-  	<httpclient.version>4.5.2</httpclient.version>
+  	<httpclient.version>4.5.13</httpclient.version>
   	<commons.codec.version>1.10</commons.codec.version>
   	<mongo.driver.version>3.0.2</mongo.driver.version>
   	<druid.version>1.0.23</druid.version>
